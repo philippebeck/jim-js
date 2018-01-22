@@ -1,11 +1,11 @@
 {
-  "name": "jim",
+  "name": "jim.js",
   "version": "0.1.0",
   "description": "Javascript Interactive Microframework",
   "main": "jim.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/philippebeck/jim.git"
+    "url": "https://github.com/philippebeck/jim.js.git"
   },
   "keywords": [
     "JavaScript",
@@ -15,10 +15,10 @@
   "author": "Philippe Beck <philippe@philippebeck.net>",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/philippebeck/jim/blob/master/LICENSE"
+    "url": "https://github.com/philippebeck/jim.js/blob/master/LICENSE"
   },
   "bugs": {
-    "url": "https://github.com/philippebeck/jim/issues"
+    "url": "https://github.com/philippebeck/jim.js/issues"
   },
-  "homepage": "https://github.com/philippebeck/jim#readme"
+  "homepage": "https://github.com/philippebeck/jim.js#readme"
 }
