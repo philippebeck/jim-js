@@ -171,6 +171,36 @@ function onKeydown(event)
     case 90: keyZ();
     break;
 
+    case 96: key0();
+    break;
+
+    case 97: key1();
+    break;
+
+    case 98: key2();
+    break;
+
+    case 99: key3();
+    break;
+
+    case 100: key4();
+    break;
+
+    case 101: key5();
+    break;
+
+    case 102: key6();
+    break;
+
+    case 103: key7();
+    break;
+
+    case 104: key8();
+    break;
+
+    case 105: key9();
+    break;
+
     // Gets the jim help element to toggle the none class
     default:
     document.getElementById('jim-help').classList.toggle('none');

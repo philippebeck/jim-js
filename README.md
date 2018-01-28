@@ -15,16 +15,20 @@ $ bower install jim-js --save
 
 # Overview
 
-Jim is a microlibrary JavaScript who use the events for interactivity.
+Jim is a JavaScript micro-library that uses events for interactivity.
 
-Jim is provided without any jQuery code line...
+Jim offers a keyboard management system to associate a key with a parameterizable action.
 
-Jim will grow in a near future...
+It is therefore possible to access a specific page, whether on site or on the web, or to launch animations or actions; for example, give the user the possibility to disconnect by pressing the "Q" key ...
+
+Jim is provided without any lines of jQuery code, nor any dependencies ...
+
+Jim is still in its infancy, he will grow in the near future ...
 
 
 # Documentation
 
-Jim is very easy to use, but I will add the documentation as soon as possible... please apologize for the inconvenience...
+Jim documentation is available here => https://philippebeck.net/index.php?access=pjs!jim
 
 
 # Contribution

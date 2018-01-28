@@ -56,12 +56,13 @@ function keyH() {
 
 // Function for I action
 function keyI() {
-  location = 'https://www.instagram.com/?hl=fr';
+  document.getElementById('jim-help').classList.toggle('none');
 }
 
 // Function for J action
 function keyJ() {
-  document.getElementById('jim-help').classList.toggle('none');
+  location = 'https://philippebeck.net/index.php?access=pjs!jim';
+
 }
 
 // Function for K action
@@ -91,7 +92,7 @@ function keyO() {
 
 // Function for P action
 function keyP() {
-  location = 'https://packagist.org';
+  location = 'https://philippebeck.net/index.php?access=pjs!pam';
 }
 
 // Function for Q action
@@ -106,7 +107,7 @@ function keyR() {
 
 // Function for S action
 function keyS() {
-  location = 'https://stackoverflow.com';
+  location = 'https://philippebeck.net/index.php?access=pjs!sam';
 }
 
 // Function for T action
@@ -141,5 +142,55 @@ function keyY() {
 
 // Function for Z action
 function keyZ() {
+  // You can put an action here !
+}
+
+// Function for 0 action
+function key0() {
+  // You can put an action here !
+}
+
+// Function for 1 action
+function key1() {
+  // You can put an action here !
+}
+
+// Function for 2 action
+function key2() {
+  // You can put an action here !
+}
+
+// Function for 3 action
+function key3() {
+  // You can put an action here !
+}
+
+// Function for 4 action
+function key4() {
+  // You can put an action here !
+}
+
+// Function for 5 action
+function key5() {
+  // You can put an action here !
+}
+
+// Function for 6 action
+function key6() {
+  // You can put an action here !
+}
+
+// Function for 7 action
+function key7() {
+  // You can put an action here !
+}
+
+// Function for 8 action
+function key8() {
+  location = './';
+}
+
+// Function for 9 action
+function key9() {
   // You can put an action here !
 }
