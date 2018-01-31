@@ -56,11 +56,13 @@ function keyH() {
 
 // Function for I action
 function keyI() {
+  // Jim's Help (where you can list all keys for the user)
   document.getElementById('jim-help').classList.toggle('none');
 }
 
 // Function for J action
 function keyJ() {
+  // Jim Documentation
   location = 'https://philippebeck.net/index.php?access=pjs!jim';
 
 }
@@ -92,6 +94,7 @@ function keyO() {
 
 // Function for P action
 function keyP() {
+  // Pam Documentation
   location = 'https://philippebeck.net/index.php?access=pjs!pam';
 }
 
@@ -107,6 +110,7 @@ function keyR() {
 
 // Function for S action
 function keyS() {
+  // Sam Documentation
   location = 'https://philippebeck.net/index.php?access=pjs!sam';
 }
 
@@ -187,6 +191,7 @@ function key7() {
 
 // Function for 8 action
 function key8() {
+  // Homepage
   location = './';
 }
 
