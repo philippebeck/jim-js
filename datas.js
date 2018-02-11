@@ -191,8 +191,7 @@ function key7() {
 
 // Function for 8 action
 function key8() {
-  // Homepage
-  location = './';
+  // You can put an action here !
 }
 
 // Function for 9 action
