@@ -1,19 +1,22 @@
 {
   "name": "jim-js",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Javascript Interactive Microlibrary",
-  "main": "jim-js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/philippebeck/jim-js.git"
-  },
   "keywords": [
     "JavaScript",
     "Event",
     "Library"
   ],
-  "author": "Philippe Beck <philippe@philippebeck.net>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philippebeck/jim-js.git"
+  },
+  "author": {
+    "name": "Philippe Beck",
+    "email": "philippe@philippebeck.net",
+    "homepage": "https://philippebeck.net"
+  },
   "bugs": {
     "url": "https://github.com/philippebeck/jim-js/issues"
   },

@@ -4,13 +4,28 @@ JavaScript Interactive Microlibrary
 
 # Installation
 
-To install via npm :
+> NPM :
 
-$ npm install jim-js
+    $ npm i jim-js
+    
+> Yarn :
 
-To install via Bower :
+    $ yarn add jim-js
 
-$ bower install jim-js --save
+> Bower :
+
+    $ bower install jim-js --save
+
+
+# CDN
+
+> jsDelivr :
+
+    https://cdn.jsdelivr.net/npm/jim-js/jim.js
+
+> unpkg :
+
+    https://unpkg.com/jim-js/jim.js
 
 
 # Overview
@@ -29,7 +44,7 @@ Jim is still in its infancy, he will grow in the near future ...
 # Documentation
 
 - Jim documentation is available in English here => https://github.com/philippebeck/jim-js/wiki
-- Jim documentation is available in French here => https://philippebeck.net/index.php?access=pjs!jim
+- Jim documentation is available in French here => https://philippebeck.net/?access=pjs!jim
 
 
 # Contribution
