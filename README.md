@@ -43,9 +43,7 @@ Jim is still in its infancy, he will grow in the near future ...
 
 # Documentation
 
-- Jim documentation is available in English here => https://github.com/philippebeck/jim-js/wiki
-- Jim documentation is available in French here => https://philippebeck.net/?access=pjs!jim
-
+- Jim documentation is available here => https://github.com/philippebeck/jim-js/wiki
 
 # Contribution
 
