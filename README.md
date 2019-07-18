@@ -55,7 +55,7 @@ Yarn : `yarn add jim-js`
 
 [![jsDelivr Yearly Downloads](https://img.shields.io/jsdelivr/npm/hy/jim-js.svg?label=jsDelivr+Yearly+Downloads)](https://www.jsdelivr.com/package/npm/jim-js)
 
-[https://cdn.jsdelivr.net/npm/jim-js@0.2.2/js/jim.js](https://cdn.jsdelivr.net/npm/jim-js@0.2.2/js/jim.js)
+[https://cdn.jsdelivr.net/npm/jim-js@0.2.3/js/jim.js](https://cdn.jsdelivr.net/npm/jim-js@0.2.3/js/jim.js)
 
 ---
 
