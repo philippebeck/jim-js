@@ -9,7 +9,6 @@
 
 // Function for A action
 function keyA() {
-  // Animadio Repository
   location = "https://github.com/animadio/animadio";
 }
 
@@ -50,15 +49,12 @@ function keyH() {
 
 // Function for I action
 function keyI() {
-  // Jim"s Help (where you can list all keys for the user)
   document.getElementById("jim-help").classList.toggle("none");
 }
 
 // Function for J action
 function keyJ() {
-  // Jim Repository
   location = "https://github.com/philippebeck/jim-js";
-
 }
 
 // Function for K action
@@ -88,7 +84,6 @@ function keyO() {
 
 // Function for P action
 function keyP() {
-  // Pam Repository
   location = "https://github.com/philippebeck/pam";
 }
 
@@ -104,7 +99,6 @@ function keyR() {
 
 // Function for S action
 function keyS() {
-  // Sam Repository
   location = "https://github.com/philippebeck/sam.scss";
 }
 
