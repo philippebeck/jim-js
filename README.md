@@ -4,6 +4,9 @@
 
 JavaScript Interactive Microlibrary
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9581132b50a244bcb437e1daf904571a)](https://www.codacy.com/app/philippebeck/jim-js?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=philippebeck/jim-js&amp;utm_campaign=Badge_Grade)
+[![Maintainability](https://api.codeclimate.com/v1/badges/01d7b4abe64a7da8c80b/maintainability)](https://codeclimate.com/github/philippebeck/jim-js/maintainability)
+
 ---
 
 ## Overview
