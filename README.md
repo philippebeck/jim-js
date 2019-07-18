@@ -151,4 +151,3 @@ Philippe Beck
 Code released under the MIT License
 
 [![GitHub License](https://img.shields.io/github/license/philippebeck/jim-js.svg?label=License)](https://github.com/philippebeck/jim-js/blob/master/LICENSE)
-
