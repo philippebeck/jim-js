@@ -6,30 +6,16 @@
 // ========== https://www.npmjs.com/package/jim-js ========== \\
 // ========================================================== \\
 
-
-
 // Strict mode
-'use strict';
+"use strict";
 
-
-
-// ******************* \\
 // ***** SUMMARY ***** \\
-// ******************* \\
-
-
 
 // 1 - Helpers  => the utilities functions
 // 2 - Events   => the user events
 // 3 - Main     => the main code
 
-
-
-// *********************** \\
 // ***** 1 - HELPERS ***** \\
-// *********************** \\
-
-
 
 /*****************************\
 * Gets a random whole number
@@ -42,8 +28,6 @@ function getRandomInteger(min, max)
   // Returns a random integer between the min & the max values
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
-
-
 
 /*********************************\
 * Installs an Event Listener
@@ -63,13 +47,7 @@ function installEventListener(selector, type, listener)
   element.addEventListener(type, listener);
 }
 
-
-
-// ********************** \\
 // ***** 2 - EVENTS ***** \\
-// ********************** \\
-
-
 
 /****************************************\
  * Toggle the none class on the help list
@@ -77,10 +55,8 @@ function installEventListener(selector, type, listener)
 function onClickHelp()
 {
   // Gets the jim help element to toggle the none class
-  document.getElementById('jim-help').classList.toggle('none');
+  document.getElementById("jim-help").classList.toggle("none");
 }
-
-
 
 /*********************************************************\
  * Chooses the function to execute from the keyboard event
@@ -204,24 +180,18 @@ function onKeydown(event)
 
     // Gets the jim help element to toggle the none class
     default:
-    document.getElementById('jim-help').classList.toggle('none');
+    document.getElementById("jim-help").classList.toggle("none");
   }
 }
 
-
-
-// ******************** \\
 // ***** 3 - MAIN ***** \\
-// ******************** \\
-
-
 
 // Waits the complete loading of the page
-document.addEventListener('DOMContentLoaded', function(e)
+document.addEventListener("DOMContentLoaded", function(e)
 {
   // Adds listeners on the keyboard
-  installEventListener('#access', 'keydown', onKeydown);
+  installEventListener("#access", "keydown", onKeydown);
 
   // Adds listener on the help button
-  installEventListener('#help-btn', 'click', onClickHelp);
+  installEventListener("#help-btn", "click", onClickHelp);
 });

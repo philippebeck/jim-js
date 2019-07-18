@@ -1,18 +1,11 @@
-// ***************** \\
 // ***** DATAS ***** \\
-// ***************** \\
-
-
 
 // You need to put this file in your js public folder, then call it from your layout before jim.js
 // And you need to put actions for your project in each function
 // For example, I put some links in some of them
 
-
-
 // Strict mode
-'use strict';
-
+"use strict";
 
 // Function for A action
 function keyA() {
@@ -26,7 +19,7 @@ function keyB() {
 
 // Function for C action
 function keyC() {
-  location = 'https://codepen.io';
+  location = "https://codepen.io";
 }
 
 // Function for D action
@@ -41,29 +34,29 @@ function keyE() {
 
 // Function for F action
 function keyF() {
-  location = 'https://www.freecodecamp.com';
+  location = "https://www.freecodecamp.com";
 }
 
 // Function for G action
 function keyG() {
-  location = 'https://github.com';
+  location = "https://github.com";
 }
 
 // Function for H action
 function keyH() {
-  location = './';
+  location = "./";
 }
 
 // Function for I action
 function keyI() {
-  // Jim's Help (where you can list all keys for the user)
-  document.getElementById('jim-help').classList.toggle('none');
+  // Jim"s Help (where you can list all keys for the user)
+  document.getElementById("jim-help").classList.toggle("none");
 }
 
 // Function for J action
 function keyJ() {
   // Jim Documentation
-  location = 'https://philippebeck.net/index.php?access=pjs!jim';
+  location = "https://philippebeck.net/index.php?access=pjs!jim";
 
 }
 
@@ -74,28 +67,28 @@ function keyK() {
 
 // Function for L action
 function keyL() {
-  location = 'https://www.linkedin.com';
+  location = "https://www.linkedin.com";
 }
 
 // Function for M action
 function keyM() {
-  location = 'https://medium.com';
+  location = "https://medium.com";
 }
 
 // Function for N action
 function keyN() {
-  location = 'https://www.npmjs.com';
+  location = "https://www.npmjs.com";
 }
 
 // Function for O action
 function keyO() {
-  location = 'https://openclassrooms.com';
+  location = "https://openclassrooms.com";
 }
 
 // Function for P action
 function keyP() {
   // Pam Documentation
-  location = 'https://philippebeck.net/index.php?access=pjs!pam';
+  location = "https://philippebeck.net/index.php?access=pjs!pam";
 }
 
 // Function for Q action
@@ -111,12 +104,12 @@ function keyR() {
 // Function for S action
 function keyS() {
   // Sam Documentation
-  location = 'https://philippebeck.net/index.php?access=pjs!sam';
+  location = "https://philippebeck.net/index.php?access=pjs!sam";
 }
 
 // Function for T action
 function keyT() {
-  location = 'https://twitter.com';
+  location = "https://twitter.com";
 }
 
 // Function for U action
@@ -131,7 +124,7 @@ function keyV() {
 
 // Function for W action
 function keyW() {
-  location = 'https://3wa.fr';
+  location = "https://3wa.fr";
 }
 
 // Function for X action
@@ -141,7 +134,7 @@ function keyX() {
 
 // Function for Y action
 function keyY() {
-  location = 'https://www.youtube.com';
+  location = "https://www.youtube.com";
 }
 
 // Function for Z action
