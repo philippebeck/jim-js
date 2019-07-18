@@ -9,7 +9,8 @@
 
 // Function for A action
 function keyA() {
-  // You can put an action here !
+  // Animadio Repository
+  location = "https://github.com/animadio/animadio";
 }
 
 // Function for B action
@@ -55,8 +56,8 @@ function keyI() {
 
 // Function for J action
 function keyJ() {
-  // Jim Documentation
-  location = "https://philippebeck.net/index.php?access=pjs!jim";
+  // Jim Repository
+  location = "https://github.com/philippebeck/jim-js";
 
 }
 
@@ -87,8 +88,8 @@ function keyO() {
 
 // Function for P action
 function keyP() {
-  // Pam Documentation
-  location = "https://philippebeck.net/index.php?access=pjs!pam";
+  // Pam Repository
+  location = "https://github.com/philippebeck/pam";
 }
 
 // Function for Q action
@@ -103,8 +104,8 @@ function keyR() {
 
 // Function for S action
 function keyS() {
-  // Sam Documentation
-  location = "https://philippebeck.net/index.php?access=pjs!sam";
+  // Sam Repository
+  location = "https://github.com/philippebeck/sam.scss";
 }
 
 // Function for T action
@@ -124,7 +125,7 @@ function keyV() {
 
 // Function for W action
 function keyW() {
-  location = "https://3wa.fr";
+  // You can put an action here !
 }
 
 // Function for X action
@@ -134,7 +135,7 @@ function keyX() {
 
 // Function for Y action
 function keyY() {
-  location = "https://www.youtube.com";
+  // You can put an action here !
 }
 
 // Function for Z action
