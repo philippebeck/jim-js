@@ -4,7 +4,7 @@
 
 JavaScript Interactive Microlibrary
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9581132b50a244bcb437e1daf904571a)](https://www.codacy.com/app/philippebeck/jim-js?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=philippebeck/jim-js&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/062741fb37c84b9daba3bc9c61c3ed86)](https://www.codacy.com/app/philippebeck/jim-js?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=philippebeck/jim-js&amp;utm_campaign=Badge_Grade)
 [![Maintainability](https://api.codeclimate.com/v1/badges/01d7b4abe64a7da8c80b/maintainability)](https://codeclimate.com/github/philippebeck/jim-js/maintainability)
 
 ---
@@ -52,8 +52,6 @@ Yarn : `yarn add jim-js`
 ---
 
 ## CDN
-
-[![jsDelivr Yearly Downloads](https://img.shields.io/jsdelivr/npm/hy/jim-js.svg?label=jsDelivr+Yearly+Downloads)](https://www.jsdelivr.com/package/npm/jim-js)
 
 [https://cdn.jsdelivr.net/npm/jim-js@0.2.3/js/jim.js](https://cdn.jsdelivr.net/npm/jim-js@0.2.3/js/jim.js)
 
