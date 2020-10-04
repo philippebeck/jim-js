@@ -4,9 +4,6 @@
 
 JavaScript Interactive Microlibrary
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/062741fb37c84b9daba3bc9c61c3ed86)](https://www.codacy.com/app/philippebeck/jim-js?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=philippebeck/jim-js&amp;utm_campaign=Badge_Grade)
-[![Maintainability](https://api.codeclimate.com/v1/badges/01d7b4abe64a7da8c80b/maintainability)](https://codeclimate.com/github/philippebeck/jim-js/maintainability)
-
 ---
 
 ## Overview
@@ -25,7 +22,6 @@ Jim was a study project...
 
 ## Summary
 
--   [Package Manager](#package-manager)  
 -   [CDN](#cdn)  
 -   [Download](#download)  
 -   [Content](#content)  
@@ -38,16 +34,6 @@ Jim was a study project...
 -   [Versioning](#versioning)  
 -   [Creator](#creator)  
 -   [Copyright](#copyright)  
-
----
-
-## Package Manager
-
-[![NPM Version](https://img.shields.io/npm/v/jim-js.svg?label=NPM)](https://www.npmjs.com/package/jim-js)
-[![NPM Total Downloads](https://img.shields.io/npm/dt/jim-js.svg?label=Downloads)](https://www.npmjs.com/package/jim-js)
-
-NPM : `npm i jim-js`  
-Yarn : `yarn add jim-js` 
 
 ---
 
@@ -73,7 +59,7 @@ The project contains 2 JS files :
 -   datas = the references for each of the keys  
 -   jim = the library  
 
-[![CSS Code Size](https://img.shields.io/github/languages/code-size/philippebeck/jim-js.svg?label=Code+Size)](https://github.com/philippebeck/jim-js/tree/master)
+[![Code Size](https://img.shields.io/github/languages/code-size/philippebeck/jim-js.svg?label=Code+Size)](https://github.com/philippebeck/jim-js/tree/master)
 
 ---
 
